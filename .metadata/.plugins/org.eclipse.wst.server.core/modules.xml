@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<modules>
+  <module moduleId="org.eclipse.jst.jee.server:ServletCode2" serverId="Apache Tomcat v9.0  at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:CinemaTicketBooking" serverId="Apache Tomcat v9.0  at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:Portfolio" serverId="Apache Tomcat v9.0  at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:LicenceApplication" serverId="Apache Tomcat v9.0  at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:Servletgetpost" serverId="Apache Tomcat v9.0  at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:SessionPrograms" serverId="Apache Tomcat v9.0  at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:SignUP" serverId="Apache Tomcat v9.0  at localhost"/>
+  <module moduleId="org.eclipse.jst.j2ee.server:springmvc" serverId="Apache Tomcat v9.0  at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:PassValidation" serverId="Apache Tomcat v9.0  at localhost"/>
+  <module moduleId="org.eclipse.jst.j2ee.server:ServletCode1" serverId="Apache Tomcat v9.0  at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:ServletLifeCycle" serverId="Apache Tomcat v9.0  at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:ServletChaining" serverId="Apache Tomcat v9.0  at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:ServletCode3" serverId="Tomcat v9.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.j2ee.server:mvcspring" serverId="Apache Tomcat v9.0  at localhost"/>
+</modules>

@@ -1,0 +1,17 @@
+services:
+  Cards:
+    image: vaibhavgopnar/cards
+    ports:
+      - "8081:8081"
+    networks:
+      - bank-network
+  AccountTest:
+    image: vaibhavgopnar/accounttest
+    ports: 
+      - "8080:8080"
+    networks:
+      - bank-network 
+  
+networks:
+  bank-network: {}
+      

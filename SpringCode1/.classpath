@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/java files/Spring jars/jakarta.annotation-api-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/java files/Spring jars/jul-to-slf4j-2.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/java files/Spring jars/lettuce-core-6.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/java files/Spring jars/log4j-api-2.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/java files/Spring jars/log4j-to-slf4j-2.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/java files/Spring jars/logback-classic-1.4.5.jar"/>
+	<classpathentry kind="lib" path="C:/java files/Spring jars/logback-core-1.4.5.jar"/>
+	<classpathentry kind="lib" path="C:/java files/Spring jars/netty-buffer-4.1.85.Final.jar"/>
+	<classpathentry kind="lib" path="C:/java files/Spring jars/netty-codec-4.1.85.Final.jar"/>
+	<classpathentry kind="lib" path="C:/java files/Spring jars/netty-common-4.1.85.Final.jar"/>
+	<classpathentry kind="lib" path="C:/java files/Spring jars/netty-handler-4.1.85.Final.jar"/>
+	<classpathentry kind="lib" path="C:/java files/Spring jars/netty-resolver-4.1.85.Final.jar"/>
+	<classpathentry kind="lib" path="C:/java files/Spring jars/netty-transport-4.1.85.Final.jar"/>
+	<classpathentry kind="lib" path="C:/java files/Spring jars/netty-transport-native-unix-common-4.1.85.Final.jar"/>
+	<classpathentry kind="lib" path="C:/java files/Spring jars/reactive-streams-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/java files/Spring jars/reactor-core-3.4.25.jar"/>
+	<classpathentry kind="lib" path="C:/java files/Spring jars/slf4j-api-2.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/java files/Spring jars/snakeyaml-1.33.jar"/>
+	<classpathentry kind="lib" path="C:/java files/Spring jars/spring-aop-6.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/java files/Spring jars/spring-beans-6.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/java files/Spring jars/spring-boot-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/java files/Spring jars/spring-boot-autoconfigure-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/java files/Spring jars/spring-boot-starter-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/java files/Spring jars/spring-boot-starter-data-redis-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/java files/Spring jars/spring-boot-starter-data-redis-reactive-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/java files/Spring jars/spring-boot-starter-logging-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/java files/Spring jars/spring-context-6.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/java files/Spring jars/spring-context-support-6.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/java files/Spring jars/spring-core-6.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/java files/Spring jars/spring-data-commons-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/java files/Spring jars/spring-data-keyvalue-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/java files/Spring jars/spring-data-redis-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/java files/Spring jars/spring-expression-6.0.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/java files/Spring jars/spring-jcl-6.0.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/java files/Spring jars/spring-oxm-6.0.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/java files/Spring jars/spring-tx-6.0.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;p1.Code4&apos; to &apos;ServletLifeCycle&apos;&#x0D;&#x0A;- Original project: &apos;ServletCode3&apos;&#x0D;&#x0A;- Original element: &apos;p1.Code4&apos;&#x0D;&#x0A;- Renamed element: &apos;p1.ServletLifeCycle&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Code4&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java&lt;p1{Code4.java[Code4" matchStrategy="1" name="ServletLifeCycle" qualified="false" references="true" similarDeclarations="false" stamp="1676044319784" textual="false" version="1.0"/>
+</session>

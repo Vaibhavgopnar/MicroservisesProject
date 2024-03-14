@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+
+	<form action="PassValidation">
+		Name: <input type="text" name="name"><br><br>
+		Email: <input type="text" name="mail"><br>
+		<br> Password : <input type="password" name="pass" id="pas"><br>
+		<br> Conform Password : <input type="password" name="cpass"
+			id="cpas"><br>
+		<br> <input type="submit" onclick="getPass()">
+	</form>
+
+	<script type="text/javascript">
+
+		function getPass() {
+			let pass = document.getElementById('pas').value;
+			let cpass = document.getElementById('cpas').value;
+
+			if (pass != cpass) {
+
+				alert("Password Must be same");
+			}
+			else{
+				
+			}
+
+		}
+		
+	</script>
+</body>
+</html>

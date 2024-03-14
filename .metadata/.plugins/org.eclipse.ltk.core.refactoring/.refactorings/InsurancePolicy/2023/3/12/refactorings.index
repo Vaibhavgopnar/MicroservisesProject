@@ -1,0 +1,10 @@
+1679369342310	Rename package 'com.springboots.Acounts'
+1679369369637	Rename package 'com.springboots.Acounts.controller'
+1679369433314	Rename package 'com.springboots.Acounts.model'
+1679369447035	Rename package 'com.springboots.Acounts.repository'
+1679369715292	Rename type 'AccountsApplicationTests'
+1679369756274	Rename type 'AccountsApplication'
+1679369834391	Rename type 'AccountController'
+1679369861455	Rename type 'account'
+1679369887564	Rename type 'AccountRepository'
+1679379048442	Delete element

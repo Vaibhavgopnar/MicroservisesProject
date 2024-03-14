@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Mon Jan 01 14:48:14 IST 2024
+org.eclipse.jst.j2ee.server\:/binary\:C\:\\Users\\gopna\\.m2\\repository\\org\\springframework\\spring-web\\5.3.24\\spring-web-5.3.24.jar=WEB-INF/lib/spring-web-5.3.24.jar
+org.eclipse.jst.j2ee.server\:/binary\:C\:\\Users\\gopna\\.m2\\repository\\org\\springframework\\spring-web\\4.1.7.RELEASE\\spring-web-4.1.7.RELEASE.jar=WEB-INF/lib/spring-web-4.1.7.RELEASE.jar

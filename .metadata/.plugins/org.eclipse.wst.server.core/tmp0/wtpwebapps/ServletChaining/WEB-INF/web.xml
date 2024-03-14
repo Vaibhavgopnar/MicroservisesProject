@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd" version="4.0">
+  <display-name>ServletChaining</display-name>
+  <welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+    <welcome-file>index.htm</welcome-file>
+    <welcome-file>index.jsp</welcome-file>
+    <welcome-file>default.html</welcome-file>
+    <welcome-file>default.htm</welcome-file>
+    <welcome-file>default.jsp</welcome-file>
+  </welcome-file-list>
+  
+  <servlet>
+  	<servlet-name>Addition</servlet-name>
+  	<servlet-class>p1.Addition</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  	<servlet-name>Addition</servlet-name>
+  	<url-pattern>/Addition</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+  	<servlet-name>Multiplication</servlet-name>
+  	<servlet-class>p1.Multiplication</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  	<servlet-name>Multiplication</servlet-name>
+  	<url-pattern>/Multiplication</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+  	<servlet-name>Subtraction</servlet-name>
+  	<servlet-class>p1.Subtraction</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  	<servlet-name>Subtraction</servlet-name>
+  	<url-pattern>/Subtraction</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+  	<servlet-name>Division</servlet-name>
+  	<servlet-class>p1.Division</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  	<servlet-name>Division</servlet-name>
+  	<url-pattern>/Division</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+  	<servlet-name>DisplayServlet</servlet-name>
+  	<servlet-class>p1.DisplayServlet</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  	<servlet-name>DisplayServlet</servlet-name>
+  	<url-pattern>/DisplayServlet</url-pattern>
+  </servlet-mapping>
+  
+</web-app>
